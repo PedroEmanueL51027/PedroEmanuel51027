@@ -1,4 +1,4 @@
-### Eae, me chamo Pedro Emanuel 
+### Eae, me chamo Pedro Emanuel 🤙🏽
 
 ## Tecnologias que utilizo
 
