@@ -1,6 +1,7 @@
 ### Eae, me chamo Pedro Emanuel 🤙🏽
 
-[![Pedro Emanuel's GitHub stats](https://github-readme-stats.vercel.app/api?username=PedroEmanueL51027&show_icons=true&theme=tokyonight)](https://github.com//github-readme-stats)
+[![Pedro Emanuel's GitHub stats](https://github-readme-stats.vercel.app/api?username=PedroEmanueL51027&show_icons=true&theme=tokyonight)](https://github.com//github-readme-stats)</br>
+## Rede Social
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/pedro_emanuel5102)
 
 ## Tecnologias que utilizo
