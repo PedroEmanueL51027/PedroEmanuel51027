@@ -17,4 +17,7 @@
 <div style="display: inline_block"><br/>
   <img align="center" alt="html5"  src="https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white" />
 </div>
+ </br>
+      <p align= "center"> Visitor Count
+     <p align= "center"> <img align= "center" src="https://profile-counter.glitch.me/PedroEmanueL51027/count.svg"/></p>
 
